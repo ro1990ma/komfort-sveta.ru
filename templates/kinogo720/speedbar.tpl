@@ -1,0 +1,1 @@
+<span id="dle-speedbar"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">{speedbar}</span></span>

@@ -1,0 +1,1 @@
+<div class="bot-left"><div class="bot-navigation" style="text-align:center;">[prev-link]Раньше[/prev-link] {pages}  [next-link]Позже[/next-link]</div></div>
