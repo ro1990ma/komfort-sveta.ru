@@ -42,8 +42,10 @@
 	</div>
 	<div class="fullimg">
 		<div id="news-id-{news-id}-descr" style="display:inline;">
-			<img itemprop="image" src="{poster src='[xfvalue_poster]' width='200' height='300'}" style="float:left;" alt="{title}" title="{title}"/>
-			<div itemprop="description">{full-story}</div>
+			<!-- <img itemprop="image" src="{poster src='[xfvalue_poster]' width='200' height='300'}" style="float:left;" alt="{title}" title="{title}"/> -->
+      <!-- <img itemprop="image" src="[xfvalue_poster]" style="float:left;" alt="{title}" title="{title}"/> -->
+
+      <div itemprop="description">{full-story}</div>
 			<div style="clear:both">
 			</div>
 			<br/>
@@ -52,9 +54,9 @@
 			<b>Год:</b> <span itemprop="copyrightYear">[xfvalue_year]</span><br/>
 			<b>Жанр:</b> <span itemprop="genre">{link-category}</span><br/>
 			<b>Качество:</b><font color="yellow"> [not-catlist=25,26,27]{include file="engine/modules/ufmoon.php?id={news-id}&kach=[xfvalue_quality]&kp_id=[xfvalue_kp_id]"}[/not-catlist]</font><br>
-			[catlist=25,26,27]<b>Последняя серия онлайн:</b> [xfvalue_serii] <br/>[/catlist] 
+			[catlist=25,26,27]<b>Последняя серия онлайн:</b> [xfvalue_serii] <br/>[/catlist]
 			<b>Продолжительность:</b> <span>[xfvalue_time]</span> <br/>
-			[xfgiven_premier]<b>Премьера в России:</b> <span>[xfvalue_premier]</span> <br/>[/xfgiven_premier] 
+			[xfgiven_premier]<b>Премьера в России:</b> <span>[xfvalue_premier]</span> <br/>[/xfgiven_premier]
 			<b>Режиссер:</b> <span itemprop="director">[xfvalue_director]</span>
 			<br/> <b>В ролях:</b> <span itemprop="actor">[xfvalue_actors]</span><br/><br/>
 			<div style="clear:both">

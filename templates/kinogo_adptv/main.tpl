@@ -57,7 +57,7 @@ $(function() {
     </h1>
   </div>[/aviable]
 [sort]<!--noindex--><div class="funct" style="text-align:center;">{sort}</div><!--/noindex-->[/sort]
-{content} 
+{content}
 <div class="pomoshnik"></div>
 </div>
 
@@ -75,11 +75,11 @@ $(function() {
      </div>
 
 <div style="padding-top:20px;"></div>
- 
-     </div>
-     
 
-  
+     </div>
+
+
+
 </div>
 
 <div class="leftblok2">
@@ -94,7 +94,7 @@ $(function() {
       <a href="/xfsearch/year/2017/" rel="nofollow">Фильмы 2017 года</a><br>
  <div class="poloska"></div></div>
 
- <div class="mini">  
+ <div class="mini">
 <i style="font-size:14px;">По странам</i><br><br>
 
      <a href="/xfsearch/country/США/" rel="nofollow">Американские</a><br>
@@ -105,10 +105,10 @@ $(function() {
 
 <div class="poloska"></div></div>
 
- <div class="mini">  
+ <div class="mini">
 <i style="font-size:14px;">Сериалы</i><br><br>
 <a href="/russkiy-serial/">Русский сериал</a><br><a href="/zarubezhnyy-serial/">Зарубежный сериал</a><br>
-       </div> 
+       </div>
 
      </div>
 
@@ -123,7 +123,7 @@ $(function() {
 <div class="mimiserblock">
     <ul>
 {custom category="1-24" template="custom-slider" xfields="skoro" from="0" limit="2" cache="no"}
- 
+
     </ul>
 </div>
 
@@ -145,18 +145,18 @@ $(function() {
                  	<div class="social"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir"></div> </div>
 <!--noindex-->
   <div class="search_panel">
-  
-    	 <div class="searchbar"> 	
+
+    	 <div class="searchbar">
        <form action="/" name="searchform" method="post" >
            <input name="titleonly" value="3" type="hidden">
       <input type="hidden" name="do" value="search">
       <input type="hidden" name="subaction" value="search">
           <input id="story" name="story" value="Поиск" onblur="if(this.value==&#39;&#39;) this.value=&#39;Поиск&#39;;" onfocus="if(this.value==&#39;Поиск&#39;) this.value=&#39;&#39;;" type="text">
-    
+
  <button class="fbutton2" onclick="submit();" type="submit" title="ok" style="float: right;"><span>ok</span></button>
- 
+
     </form> </div>
- 
+
   </div>
 <div class="user_panel">
 <div class="loginin">
@@ -175,7 +175,7 @@ $(function() {
 </div>
 <!--/noindex-->
 		</div>
-        
+
 <div class="header55">
 
 <div class="leftblok1_header">
@@ -190,12 +190,12 @@ $(function() {
 
 <table class="menu">
   <tbody><tr>
-    
+
 		<td class="item"><a href="/" rel="nofollow"><span class="name">Главная</span></a></td>
-		<td class="item"><a href="/xfsearch/year/2016/" rel="nofollow"><span class="name"><font color="red">Новинки 2016</font></span></a></td>    
-		<td class="item"><a href="/lastnews/" rel="nofollow"><span class="name">Новое на киного</span></a></td>    
+		<td class="item"><a href="/xfsearch/year/2016/" rel="nofollow"><span class="name"><font color="red">Новинки 2016</font></span></a></td>
+		<td class="item"><a href="/lastnews/" rel="nofollow"><span class="name">Новое на киного</span></a></td>
 		<td class="item"><a href="/index.php?do=orderdesc" rel="nofollow"><span class="name">Стол заказов</span></a></td>
-		
+
   </tr>
 </tbody>
 
@@ -211,8 +211,8 @@ $(function() {
  <div style="clear:both"></div>
 
 <div class="horizontal2">
-        <div class="horizontal"> 
-        
+        <div class="horizontal">
+
           <!--noindex--><div class="carousel">
             <a class="carousel_prev carousel_left" href="">prev</a>
             <div class="carousel_container">
@@ -233,7 +233,7 @@ $(function() {
     <div class="footer-text">
  <p>Описание главной страницы сайта</p>
  </div>[/aviable]
- 
+
 <div style="float:left;" class="partners">
 <!--noindex-->
 <!--LiveInternet counter--><script type="text/javascript"><!--

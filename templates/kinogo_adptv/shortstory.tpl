@@ -22,7 +22,9 @@
 </div>
   <div class="shortimg">
     <div id="{news-id}" class="news-id" style="display:inline;">
-      <img src="{poster src='[xfvalue_poster]' default='/uploads/mini/noimage.jpg' width='860' height='1182' q='80' zoom='no' jpg='yes'}" alt="{title} [xfvalue_year]" title="{title} [xfvalue_year]" style="float:left;width:200px;height:300px" />
+      <!-- <img class="qwerty" src="{poster src='[xfvalue_poster]' default='/uploads/mini/noimage.jpg' width='860' height='1182' q='80' zoom='no' jpg='yes'}" alt="{title} [xfvalue_year]" title="{title} [xfvalue_year]" style="float:left;width:200px;height:300px; border: 1px solid red;"/> -->
+      <img class="qwerty" src="[xfvalue_poster]" alt="{title} [xfvalue_year]" title="{title} [xfvalue_year]" style="float:left;width:200px;height:300px; border: 1px solid red;"/>
+
         <!--noindex-->{short-story limit="350"}...<br><br>
 		    [xfgiven_year]<b>Год выпуска:</b> [xfvalue_year]<br>[/xfgiven_year]
         <b>Страна:</b> [xfvalue_country]<br>
